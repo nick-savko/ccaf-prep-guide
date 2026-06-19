@@ -29,14 +29,19 @@ A practice-first prep plan for the **Claude Certified Architect – Foundations 
 ---
 
 ## Prerequisites
-- [ ] Complete the 4 official Anthropic courses on Skilljar — [Claude Partner Network Learning Path](https://anthropic.skilljar.com/page/claude-partner-network-learning-path)
+- [ ] Complete the 4 official Anthropic courses on Skilljar - See [Materials & Links](#materials--links) for course and practice exam links.
+
+  - [ ] Introduction to Agent Skills
+  - [ ] Building with the Claude API
+  - [ ] Introduction to Model Context Protocol
+  - [ ] Claude Code in Action
 
 ---
 
 ## Phase 1: Baseline
 *Goal: find your starting point, learn the question style.*
 
-- [ ] **Step 1.** Take the official Anthropic [practice exam on Skilljar](https://anthropic.skilljar.com/anthropic-certification-practice-exam) without any preparation. 
+- [ ] **Step 1.** Take the official Anthropic practice exam on Skilljar without any preparation. 
 
 The point of doing it cold is to find out your actual baseline score and get a feel for the kind of questions the real exam asks. The platform shows you an explanation for the correct answer after each question, but at this stage you can skip reading them — you're not trying to learn yet, just to see where you stand.
 
@@ -103,6 +108,7 @@ The point of doing it cold is to find out your actual baseline score and get a f
 ## Materials & Links
 
 ### Official Anthropic Resources
+> ⚠️ These links may return a 403 error when clicked directly. If that happens, copy the URL and paste it into your browser's address bar manually instead.
 - [Anthropic CCAF prep courses (Skilljar)](https://anthropic.skilljar.com/page/claude-partner-network-learning-path)
 - [Anthropic official practice exam (Skilljar)](https://anthropic.skilljar.com/anthropic-certification-practice-exam)
 - [Official CCAF Exam Guide (PDF)](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773274827%2FClaude+Certified+Architect+%E2%80%93+Foundations+Certification+Exam+Guide.pdf)
