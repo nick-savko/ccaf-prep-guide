@@ -22,6 +22,7 @@ A practice-first prep plan for the **Claude Certified Architect – Foundations 
 - [Phase 7: Timed Practice](#phase-7-timed-practice)
 - [Phase 8: Cold Test](#phase-8-cold-test)
 - [Phase 9: Decision Gate and Exam Day](#phase-9-decision-gate-and-exam-day)
+- [Materials & Links](#materials--links)
 - [Additional Practice Sources](#additional-practice-sources)
 - [Score Tracker Template](#score-tracker-template)
 - [License](#license)
